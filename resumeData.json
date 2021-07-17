@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Casey Wood",
+    "occupation": "Web Developer",
+    "description": " with eclectic tasts, love for mind bending puzzles and appretiates nerdy, progress driven cultrues",
+    "image": "profilepic.jpg",
+    "bio": "I moved to Vancouver with the intent in developing my career into the tech industry. If I could spend the rest of my days building and creating I would be totally content. The process of analyizing planning and developing new project is something that has always brought me great joy. my interests that have followed me around out side of my careers have been a heavy obssion with the table top war game Warhammer including general minurature hobbies, various forms of juggling and building and tweaking my home computer and electronics",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "caseywood252@gmail.com",
+    "phone": "306-807-2278",
+    "address": {
+      "city": "Vancouver",
+      "state": "British Colombia"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Lighthouse Labs",
+        "degree": "Masters in Beer tasting",
+        "graduated": "August 2021",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Shaw Cable",
+        "title": "Knowledge Expert",
+        "years": "2018 - 2021",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Collaborative Construction",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Jquery",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "75%"
+      },
+      {
+        "name": "Postgres Sql",
+        "level": "65%"
+      },
+      {
+        "name": "Three.js",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Final-Project",
+        "category": "Maybe Buckets?",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Smart-To-Do-List",
+        "category": "Smart categorizing to do list application",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://github.com/CaseyQWood/To-Do-List"
+      },
+      {
+        "title": "Tweeter",
+        "category": "Twitter clone",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Scheduler",
+        "category": "A React based website for booking appointments",
+        "image": "scheduler.png",
+        "url": "https://github.com/CaseyQWood/scheduler"
+      },
+      {
+        "title": "TinyApp",
+        "category": "",
+        "image": "smirkspace.jpg",
+        "url": "https://github.com/CaseyQWood/tinyApp"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
