@@ -1,18 +1,16 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Casey Wood",
+    "occupation": "Web Developer",
+    "description": " with eclectic tasts, love for mind bending puzzles and appretiates nerdy, progress driven cultrues",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "I moved to Vancouver with the intent in developing my career into the tech industry. If I could spend the rest of my days building and creating I would be totally content. The process of analyizing planning and developing new project is something that has always brought me great joy. my interests that have followed me around out side of my careers have been a heavy obssion with the table top war game Warhammer including general minurature hobbies, various forms of juggling and building and tweaking my home computer and electronics",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "caseywood252@gmail.com",
+    "phone": "306-807-2278",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "Vancouver",
+      "state": "British Colombia"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
@@ -21,11 +19,6 @@
         "name": "facebook",
         "url": "http://facebook.com/tim.baker.906",
         "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
@@ -48,27 +41,21 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
+        "school": "Lighthouse Labs",
         "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
+        "graduated": "August 2021",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
+        "company": "Shaw Cable",
+        "title": "Knowledge Expert",
+        "years": "2018 - 2021",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company": "Super Cool Studio",
+        "company": "Collaborative Construction",
         "title": "Junior bug fixer",
         "years": "March 2007 - February 2010",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
@@ -76,66 +63,66 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "JavaScript",
+        "level": "80%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "70%"
+      },
+      {
+        "name": "Jquery",
+        "level": "70%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "75%"
       },
       {
-        "name": "VueJs",
+        "name": "Postgres Sql",
+        "level": "65%"
+      },
+      {
+        "name": "Three.js",
         "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "Final-Project",
+        "category": "Maybe Buckets?",
         "image": "canadian-wanderlust.jpg",
         "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
+        "title": "Smart-To-Do-List",
+        "category": "Smart categorizing to do list application",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://github.com/CaseyQWood/To-Do-List"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "title": "Tweeter",
+        "category": "Twitter clone",
         "image": "original-thai-food.jpg",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Scheduler",
+        "category": "A React based website for booking appointments",
+        "image": "scheduler.png",
+        "url": "https://github.com/CaseyQWood/scheduler"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "title": "TinyApp",
+        "category": "",
         "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "url": "https://github.com/CaseyQWood/tinyApp"
       }
     ]
   },

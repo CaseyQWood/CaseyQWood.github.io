@@ -39,3 +39,10 @@ When you're all done, run `npm start` again and you'll see your new personal res
 
 ##### Testimonial photo credit
 <a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
+
+
+<a href='https://www.freepik.com/vectors/background'>Background vector created by freepik - www.freepik.com</a>
+
+<a href='https://www.freepik.com/vectors/background'>Background vector created by pikisuperstar - www.freepik.com</a>
+
+<a href='https://www.freepik.com/vectors/background'>Background vector created by pikisuperstar - www.freepik.com</a>
